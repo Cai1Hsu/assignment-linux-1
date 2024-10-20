@@ -12,7 +12,7 @@
 
 以任意一种方式（实体机，WSL2，VM）安装一个你喜欢的 Linux 发行版，然后进行一些初始配置，搭建你的工作环境。你可以参考任意资料。
 
-你需要把你从安装 Linux 到所做的一切记录在 `Linux\README.md` 中，并在里面附上 2 ~ 3 张截图，其中一张包含运行了 screenfetch 的界面。
+你需要把你从安装 Linux 到所结束所做的一切记录在 `Linux\README.md` 中，并在里面附上 2 ~ 3 张截图，其中一张包含运行了 screenfetch 的界面。
 
 ### CommandLine Basic
 
