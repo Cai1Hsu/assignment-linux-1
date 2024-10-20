@@ -1,13 +1,21 @@
-# 从模板创建作业
+# Linux 课程第一次作业
 
-1. 从[Loongson-neuq/AssignmentTemplate](https://github.com/Loongson-neuq/AssignmentTemplate)创建一个新仓库。
+[课程 Slides](https://loongson-neuq.pages.dev/p/os-week1-git-and-linux-basics/)
 
-2. 添加必要的文件，在`README.md`中编写题目或提示，push到远程。
+前置内容：完成第一次 Git 练习作业，详见: [github.com/Loongson-neuq](https://github.com/Loongson-neuq)
 
-3. 从 [classroom.github.com](https://classroom.github.com/)中创建一个作业。[本教室快速链接](https://classroom.github.com/classrooms/181616342-2024-neuq/new_assignments/new)
+## 要求
 
-4. 设置标题，deadline。设置starter code仓库为你刚才提交的仓库。确保Repository visibility为public
+本仓库中有数个文件夹，每个文件夹对应一道题目。根据题目要求完成作业。
 
-5. Protected file paths中添加`.github`以及其他你不想学生修改的文件路径，点击右下角 Create assignment
+### Setup Linux
 
-6. 分发作业邀请链接
+以任意一种方式（实体机，WSL2，VM）安装一个你喜欢的 Linux 发行版，然后进行一些初始配置，搭建你的工作环境。你可以参考任意资料。
+
+你需要把你从安装 Linux 到所做的一切记录在 `Linux\README.md` 中，并在里面附上 2 ~ 3 张包含运行了 screenfetch 的截图。
+
+### Basic CommandLine
+
+在 `CommandLine` 文件夹中有一些 `.sh` 文件，你需要把完成相应操作的命令写在里面并保存。如果有多条命令需要执行，以换行符分隔。
+
+题目要求见 `CommandLine` 文件夹下的 `README.md` 文件
