@@ -7,7 +7,7 @@
   "version": 1,
   "config_version": 1,
   "auto_grade": {
-    "enable": true,
+    "enable": false,
     "upload_output": true,
     "steps": [
       {
